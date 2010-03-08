@@ -1,0 +1,16 @@
+<fate map="level4" author="shark" weapon="laser">
+  <!-- important details -->
+  <background file="default"/>
+  <next level="level5"/>
+  
+  <!-- actual map -->
+  <ball c="LBLUE" x="40" y="90" vx="-50" vy="0" r="s"/>
+  <ball c="LBLUE" x="80" y="90" vx="-50" vy="0" r="xs"/>
+  <ball c="LBLUE" x="120" y="90" vx="0" vy="0" r="s"/>
+  <ball c="LBLUE" x="360" y="90" vx="0" vy="0" r="s"/>
+  <ball c="LBLUE" x="400" y="90" vx="50" vy="0" r="xs"/>
+  <ball c="LBLUE" x="440" y="90" vx="50" vy="0" r="s"/>
+  <user x="240" y="0"/>
+  <mech h="1"/>
+</fate>
+

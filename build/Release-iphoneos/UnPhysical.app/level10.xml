@@ -1,0 +1,11 @@
+<fate map="level 10" author="shark" weapon="laser">
+  <!-- important details -->
+  <background file="default"/>
+  <next level="level11"/>
+  
+  <!-- actual map -->
+  <ball c="YELLOW" x="40" y="150" vx="145" vy="50" r="m"/>
+  <user x="240" y="0"/>
+  <mech h="1"/>
+</fate>
+
